@@ -21,7 +21,7 @@ Our Engine use the Enity-Component-System concept and the raylib, a very simple 
 
 ### REQUIREMENT
 
-* You must have **cmake 3.17 at least ** installed
+* You must have **cmake 3.17 at least** installed
 * You must have a **compiler** installed (windows: **Visual Studio 15 2017**, unix: **g++**)
 * You must have enabled **Raylib** installed on your windows system
 
