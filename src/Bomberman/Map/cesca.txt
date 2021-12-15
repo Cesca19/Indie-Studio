@@ -1,0 +1,15 @@
+cccccccccccccccccccccccccccccc
+c   c         c  c           c
+c c c         cc c     cccc  c
+c c c          c  cc      cc c
+c cc c         c   ccc     c c
+cccc c         c       ccc ccc
+cc c c         c         cc cc
+cc   cc       ccc  ccc    c cc
+ccc    cccccccc    c  cc  c cc
+c  ccc             c   cccc cc
+c    cccc  c c c ccc         c
+c cc             cccc cc c   c
+c  ccccc      c    c     ccc c
+c      ccc    ccc  c  cccccccc
+cccccccccccccccccccccccccccccc

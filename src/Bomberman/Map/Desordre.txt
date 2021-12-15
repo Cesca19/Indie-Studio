@@ -1,0 +1,15 @@
+cccccccccccccccccccccccccccccc
+cxx                    cc   cc
+cxx                         cc
+cxx                         cc
+cxx                         cc
+xxx                         cc
+xxx                         cc
+c                           cc
+c                           cc
+c                           cc
+c                            c
+c    xxx   xxxxxxx           c
+c       xxxx                 c
+c                            c
+cccccccccccccccccccccccccccccc
