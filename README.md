@@ -12,10 +12,10 @@ Our Engine use the Enity-Component-System concept and the raylib, a very simple 
 
 ## AUTHORS
 
-* Femi FACIA
-* Georges HOUMBADJI
-* Damia Tobossi
-* Francesca ATTINDEHOU
+* [Femi FACIA](https://github.com/femifacia)
+* [Georges HOUMBADJI](https://github.com/GeorgesML)
+* [Damia Tobossi](https://github.com/lareey)
+* [Francesca ATTINDEHOU](https://github.com/Cesca19)
 
 ## HOW TO INSTALL
 
