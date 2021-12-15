@@ -5,7 +5,7 @@
 ** Text
 */
 
-#include "../../include/Raylib/Text.hpp"
+#include "Text.hpp"
 
 namespace Raylib
 {

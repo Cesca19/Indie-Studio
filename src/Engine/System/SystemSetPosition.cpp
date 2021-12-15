@@ -5,7 +5,7 @@
 ** SystemSetPosiion
 */
 
-#include "../../../include/Engine/System/SystemSetPosition.hpp"
+#include "SystemSetPosition.hpp"
 
 namespace Engine {
     void SystemSetPosition::setEntityPosition(std::shared_ptr<Entity> entity, double x, double y, double z)

@@ -5,7 +5,7 @@
 ** setMapName
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 #include <vector>
 #include <iostream>
 #include <fstream>

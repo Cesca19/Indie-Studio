@@ -5,7 +5,7 @@
 ** SystemBombManager
 */
 
-#include "../../../include/Engine/System/SystemBombManager.hpp"
+#include "SystemBombManager.hpp"
 
 namespace Engine {
     void SystemBombManager::drawBomb(Camera *camera, float x, float y, float z)

@@ -5,7 +5,7 @@
 ** Word
 */
 
-#include "../../../include/Engine/Entity/Word.hpp"
+#include "Word.hpp"
 
 namespace Engine {
     Word::Word(std::string name) : Entity(WORD, name)

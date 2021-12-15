@@ -5,7 +5,7 @@
 ** PauseScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void pauseLoop(Engine::Scene *scene, Raylib::Window *win)
 {

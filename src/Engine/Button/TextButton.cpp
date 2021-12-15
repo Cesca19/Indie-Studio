@@ -5,7 +5,7 @@
 ** TextButton
 */
 
-#include "../../../include/Engine/Button/TextButton.hpp"
+#include "TextButton.hpp"
 
 namespace Engine
 {

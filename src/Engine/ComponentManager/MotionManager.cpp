@@ -5,7 +5,7 @@
 ** MotionManager
 */
 
-#include "../../../include/Engine/ComponentManager/MotionManager.hpp"
+#include "MotionManager.hpp"
 
 namespace Engine
 {

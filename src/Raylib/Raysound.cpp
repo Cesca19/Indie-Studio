@@ -5,7 +5,7 @@
 ** Sound.cpp
 */
 
-#include "../../include/Raylib/Raysound.hpp"
+#include "Raysound.hpp"
 
 namespace Raylib {
     void Raysound::setVolume(float volume)

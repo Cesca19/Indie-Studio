@@ -5,7 +5,7 @@
 ** Function
 */
 
-#include "../../include/Raylib/myRaylib.hpp"
+#include "myRaylib.hpp"
 
 namespace Raylib {
     /**

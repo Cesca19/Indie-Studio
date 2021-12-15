@@ -5,9 +5,9 @@
 ** main
 */
 
-#include "../include/Bomberman/Bomberman.hpp"
-#include "../include/Engine/Engine.hpp"
-#include "../include/Raylib/raylib.hpp"
+#include "Bomberman/Bomberman.hpp"
+#include "Engine/Engine.hpp"
+#include "Raylib/raylib.hpp"
 #include <fstream>
 #include <string>
 #include <vector>

@@ -5,7 +5,7 @@
 ** FullscreenScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void fullscreenOnLoop(Engine::Scene *scene, Raylib::Window *win)
 {

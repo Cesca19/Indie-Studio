@@ -5,7 +5,7 @@
 ** MusicOnScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void musicOnLoop(Engine::Scene *scene, Raylib::Window *win)
 {

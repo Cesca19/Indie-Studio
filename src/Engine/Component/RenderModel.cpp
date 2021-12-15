@@ -5,7 +5,7 @@
 ** RenderModel
 */
 
-#include "../../../include/Engine/Component/RenderModel.hpp"
+#include "RenderModel.hpp"
 
 namespace Engine {
     Color RenderModel::getColor()

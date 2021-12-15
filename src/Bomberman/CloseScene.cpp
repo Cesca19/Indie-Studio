@@ -5,7 +5,7 @@
 ** CloseScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void closeLoop(Engine::Scene *scene, Raylib::Window *win)
 {

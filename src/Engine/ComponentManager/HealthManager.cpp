@@ -5,7 +5,7 @@
 ** HealthManager
 */
 
-#include "../../../include/Engine/ComponentManager/HealthManager.hpp"
+#include "HealthManager.hpp"
 
 namespace Engine
 {

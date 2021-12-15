@@ -5,7 +5,7 @@
 ** RenderModelManager
 */
 
-#include "../../../include/Engine/ComponentManager/RenderModelManager.hpp"
+#include "RenderModelManager.hpp"
 
 namespace Engine {
     std::shared_ptr<IComponent> RenderModelManager::getComponent(std::shared_ptr<Entity> entity)

@@ -6,7 +6,7 @@
 */
 
 
-#include "../../../include/Engine/Entity/Alien.hpp"
+#include "Alien.hpp"
 
 namespace Engine
 {

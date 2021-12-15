@@ -5,7 +5,7 @@
 ** Write
 */
 
-#include "../../../include/Engine/Component/Write.hpp"
+#include "Write.hpp"
 
 namespace Engine {
     int Write::getSize()

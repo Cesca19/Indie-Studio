@@ -5,7 +5,7 @@
 ** SpriteButton
 */
 
-#include "../../../include/Engine/Button/SpriteButton.hpp"
+#include "SpriteButton.hpp"
 
 namespace Engine{
 

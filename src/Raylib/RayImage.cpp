@@ -5,7 +5,7 @@
 ** RayImage
 */
 
-#include "../../include/Raylib/RayImage.hpp"
+#include "RayImage.hpp"
 
 namespace Raylib {
     Image RayImage::getImage()

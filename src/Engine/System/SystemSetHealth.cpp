@@ -5,7 +5,7 @@
 ** SystemSetHealth
 */
 
-#include "../../../include/Engine/System/SystemSetHealth.hpp"
+#include "SystemSetHealth.hpp"
 
 namespace Engine {
     void SystemSetHealth::setEntityPosition(std::shared_ptr<Entity> entity, int x, int y)

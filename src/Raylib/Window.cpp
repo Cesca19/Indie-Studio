@@ -5,7 +5,7 @@
 ** Window
 */
 
-#include "../../include/Raylib/Window.hpp"
+#include "Window.hpp"
 
 namespace Raylib {
     void Window::setFullscreen()

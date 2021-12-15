@@ -5,7 +5,7 @@
 ** Follow
 */
 
-#include "../../../include/Engine/Component/Follow.hpp"
+#include "Follow.hpp"
 
 Engine::Follow::Follow(IComponent *component)
 {

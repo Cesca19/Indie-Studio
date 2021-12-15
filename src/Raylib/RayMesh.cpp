@@ -5,7 +5,7 @@
 ** RayMesh.cpp
 */
 
-#include "../../include/Raylib/RayMesh.hpp"
+#include "RayMesh.hpp"
 
 namespace Raylib {
     RayMesh::RayMesh()

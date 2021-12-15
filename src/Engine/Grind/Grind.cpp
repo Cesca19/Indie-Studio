@@ -5,7 +5,7 @@
 ** Grind
 */
 
-#include "../../../include/Engine/Grind/Grind.hpp"
+#include "Grind.hpp"
 
 namespace Engine {
 

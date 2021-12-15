@@ -5,7 +5,7 @@
 ** PlayerPresentationScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void playerPresentationLoop(Engine::Scene *scene, Raylib::Window *win)
 {

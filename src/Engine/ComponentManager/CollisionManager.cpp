@@ -5,7 +5,7 @@
 ** CollisionManager
 */
 
-#include "../../../include/Engine/ComponentManager/CollisionManager.hpp"
+#include "CollisionManager.hpp"
 
 namespace Engine
 {

@@ -5,7 +5,7 @@
 ** JoystickManager
 */
 
-#include "../../../include/Engine/ComponentManager/JoystickManager.hpp"
+#include "JoystickManager.hpp"
 
 namespace Engine {
     std::shared_ptr<IComponent> JoystickManager::getComponent(std::shared_ptr<Entity> entity)

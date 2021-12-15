@@ -5,7 +5,7 @@
 ** Core
 */
 
-#include "../../../include/Engine/Core/Core.hpp"
+#include "Core.hpp"
 #include <stdlib.h>
 #include <fstream>
 #include <string>

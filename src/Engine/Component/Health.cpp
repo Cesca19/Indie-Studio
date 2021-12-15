@@ -5,7 +5,7 @@
 ** Health
 */
 
-#include "../../../include/Engine/Component/Health.hpp"
+#include "Health.hpp"
 
 namespace Engine {
     void Health::display()

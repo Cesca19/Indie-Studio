@@ -5,7 +5,7 @@
 ** MusicStream
 */
 
-#include "../../include/Raylib/MusicStream.hpp"
+#include "MusicStream.hpp"
 
 namespace Raylib {
     void MusicStream::stopMusicStream()

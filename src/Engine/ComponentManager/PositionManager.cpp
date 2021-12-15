@@ -5,7 +5,7 @@
 ** PositionManager
 */
 
-#include "../../../include/Engine/ComponentManager/PositionManager.hpp"
+#include "PositionManager.hpp"
 
 namespace Engine
 {

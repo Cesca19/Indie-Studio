@@ -5,7 +5,7 @@
 ** CreateMap
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 int checkWallRect(Rectangle rayRect)
 {

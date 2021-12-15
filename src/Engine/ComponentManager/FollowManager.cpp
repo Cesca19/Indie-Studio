@@ -5,7 +5,7 @@
 ** FollowManager
 */
 
-#include "../../../include/Engine/ComponentManager/FollowManager.hpp"
+#include "FollowManager.hpp"
 
 namespace Engine
 {

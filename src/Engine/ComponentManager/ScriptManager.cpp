@@ -5,7 +5,7 @@
 ** ScriptManager
 */
 
-#include "../../../include/Engine/ComponentManager/ScriptManager.hpp"
+#include "ScriptManager.hpp"
 
 namespace Engine
 {

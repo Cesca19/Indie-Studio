@@ -5,7 +5,7 @@
 ** Rectangle
 */
 
-#include "../../include/Raylib/RayRectangle.hpp"
+#include "RayRectangle.hpp"
 
 namespace Raylib {
     void RayRectangle::draw(float roundness, int segments, Color color)

@@ -5,7 +5,7 @@
 ** Sprite
 */
 
-#include "../../../include/Engine/Entity/Sprite.hpp"
+#include "Sprite.hpp"
 
 namespace Engine {
     Sprite::Sprite(std::string name) : Entity(SPRITE, name)

@@ -5,7 +5,7 @@
 ** MusicOffScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void musicOffLoop(Engine::Scene *scene, Raylib::Window *win)
 {

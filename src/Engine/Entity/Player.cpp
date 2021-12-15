@@ -5,7 +5,7 @@
 ** Player
 */
 
-#include "../../../include/Engine/Entity/Player.hpp"
+#include "Player.hpp"
 
 namespace Engine
 {

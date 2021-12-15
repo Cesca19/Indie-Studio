@@ -5,7 +5,7 @@
 ** ExitScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void exitLoop(Engine::Scene *scene, Raylib::Window *win)
 {

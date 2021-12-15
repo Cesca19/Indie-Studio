@@ -5,7 +5,7 @@
 ** Joystick
 */
 
-#include "../../../include/Engine/Component/Joystick.hpp"
+#include "Joystick.hpp"
 
 namespace Engine {
     int Joystick::getKeyLeft()

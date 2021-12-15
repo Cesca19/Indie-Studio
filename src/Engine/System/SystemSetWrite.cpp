@@ -5,7 +5,7 @@
 ** SystemSetWrite
 */
 
-#include "../../../include/Engine/System/SystemSetWrite.hpp"
+#include "SystemSetWrite.hpp"
 
 namespace Engine {
     void SystemSetWrite::setEntityWrite(std::shared_ptr<Entity> entity, std::string content)

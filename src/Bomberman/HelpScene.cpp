@@ -5,7 +5,7 @@
 ** HelpScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 #include <fstream>
 #include <string>
 

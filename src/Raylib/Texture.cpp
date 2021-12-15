@@ -5,7 +5,7 @@
 ** Texture
 */
 
-#include "../../include/Raylib/Texture.hpp"
+#include "Texture.hpp"
 
 namespace Raylib {
 

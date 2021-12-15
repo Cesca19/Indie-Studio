@@ -5,7 +5,7 @@
 ** SystemSetCollision
 */
 
-#include "../../../include/Engine/System/SystemSetCollision.hpp"
+#include "SystemSetCollision.hpp"
 
 namespace Engine {
 

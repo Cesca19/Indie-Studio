@@ -5,7 +5,7 @@
 ** Entity
 */
 
-#include "../../../include/Engine/Entity/Entity.hpp"
+#include "Entity.hpp"
 
 namespace Engine {
     std::string Entity::getName()

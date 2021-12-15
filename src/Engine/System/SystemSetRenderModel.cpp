@@ -5,7 +5,7 @@
 ** SystemSetRenderModel
 */
 
-#include "../../../include/Engine/System/SystemSetRenderModel.hpp"
+#include "SystemSetRenderModel.hpp"
 
 namespace Engine {
     void SystemSetRenderModel::setEntityRenderModelAnimation(std::shared_ptr<Entity> entity, std::string fileName, int animsCount)

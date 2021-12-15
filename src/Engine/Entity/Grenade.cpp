@@ -5,7 +5,7 @@
 ** Grenade
 */
 
-#include "../../../include/Engine/Entity/Grenade.hpp"
+#include "Grenade.hpp"
 
 namespace Engine
 {

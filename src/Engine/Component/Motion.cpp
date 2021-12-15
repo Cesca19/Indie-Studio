@@ -5,7 +5,7 @@
 ** Motion
 */
 
-#include "../../../include/Engine/Component/Motion.hpp"
+#include "Motion.hpp"
 
 namespace Engine {
 Motion::Motion(double Vx, double Vy, double ax, double ay)

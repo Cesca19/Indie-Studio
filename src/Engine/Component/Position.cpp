@@ -5,7 +5,7 @@
 ** Position
 */
 
-#include "../../../include/Engine/Component/Position.hpp"
+#include "Position.hpp"
 
 namespace Engine {
 

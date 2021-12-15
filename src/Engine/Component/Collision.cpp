@@ -5,7 +5,7 @@
 ** Collision
 */
 
-#include "../../../include/Engine/Component/Collision.hpp"
+#include "Collision.hpp"
 
 namespace Engine  {
 

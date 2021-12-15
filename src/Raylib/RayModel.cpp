@@ -5,7 +5,7 @@
 ** RayModel
 */
 
-#include "../../include/Raylib/RayModel.hpp"
+#include "RayModel.hpp"
 
 namespace Raylib {
     Model RayModel::getModel()

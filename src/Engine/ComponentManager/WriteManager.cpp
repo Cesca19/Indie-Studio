@@ -5,7 +5,7 @@
 ** WriteManager
 */
 
-#include "../../../include/Engine/ComponentManager/WriteManager.hpp"
+#include "WriteManager.hpp"
 
 namespace Engine {
     std::shared_ptr<IComponent> WriteManager::getComponent(std::shared_ptr<Entity> entity)

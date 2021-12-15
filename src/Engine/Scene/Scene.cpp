@@ -5,8 +5,8 @@
 ** Scene
 */
 
-#include "../../../include/Engine/Scene/Scene.hpp"
-#include "../../../include/Engine/Button/SpriteButton.hpp"
+#include "Scene.hpp"
+#include "../Button/SpriteButton.hpp"
 
 namespace Engine {
 

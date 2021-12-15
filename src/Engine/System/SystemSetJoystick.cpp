@@ -5,7 +5,7 @@
 ** SystemSetJoystick
 */
 
-#include "../../../include/Engine/System/SystemSetJoystick.hpp"
+#include "SystemSetJoystick.hpp"
 
 namespace Engine {
     void SystemSetJoystick::setEntityJoystick(std::shared_ptr<Entity> entity, int left, int right, int up, int down)

@@ -5,7 +5,7 @@
 ** duoGameScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void duoGameLoop(Engine::Scene *scene, Raylib::Window *win)
 {

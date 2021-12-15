@@ -5,7 +5,7 @@
 ** SystemPlayerInput
 */
 
-#include "../../../include/Engine/System/SystemPlayerInput.hpp"
+#include "SystemPlayerInput.hpp"
 
 namespace Engine {
 

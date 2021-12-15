@@ -5,7 +5,7 @@
 ** MainScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void mainLoop(Engine::Scene *scene, Raylib::Window *win)
 {

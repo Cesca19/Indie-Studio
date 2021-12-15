@@ -5,7 +5,7 @@
 ** ChooseGameModeScene
 */
 
-#include "../../include/Bomberman/Bomberman.hpp"
+#include "Bomberman.hpp"
 
 void gameModeLoop(Engine::Scene *scene, Raylib::Window *win)
 {
